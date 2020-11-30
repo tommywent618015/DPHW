@@ -1,0 +1,11 @@
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\bin\Debug\opdracht 1.exe.config
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\bin\Debug\opdracht 1.exe
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\bin\Debug\opdracht 1.pdb
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht 1.csprojAssemblyReference.cache
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht_1.Form1.resources
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht_1.Properties.Resources.resources
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht_1.ReisInfoDisplay.resources
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht 1.csproj.GenerateResource.cache
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht 1.csproj.CoreCompileInputs.cache
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht 1.exe
+C:\Users\frets\source\repos\opdracht treinscherm\opdracht 1\obj\Debug\opdracht 1.pdb
