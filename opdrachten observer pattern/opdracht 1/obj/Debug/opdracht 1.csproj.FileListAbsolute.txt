@@ -1,0 +1,7 @@
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\bin\Debug\opdracht 1.exe.config
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\bin\Debug\opdracht 1.exe
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\bin\Debug\opdracht 1.pdb
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\obj\Debug\opdracht 1.csprojAssemblyReference.cache
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\obj\Debug\opdracht 1.csproj.CoreCompileInputs.cache
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\obj\Debug\opdracht 1.exe
+C:\Users\frets\source\repos\opdrachten observer pattern\opdracht 1\obj\Debug\opdracht 1.pdb
