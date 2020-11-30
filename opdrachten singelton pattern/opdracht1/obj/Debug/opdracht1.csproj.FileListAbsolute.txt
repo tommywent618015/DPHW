@@ -1,0 +1,7 @@
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\bin\Debug\opdracht1.exe.config
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\bin\Debug\opdracht1.exe
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\bin\Debug\opdracht1.pdb
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\obj\Debug\opdracht1.csprojAssemblyReference.cache
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\obj\Debug\opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\obj\Debug\opdracht1.exe
+C:\Users\frets\source\repos\opdrachten singelton pattern\opdracht1\obj\Debug\opdracht1.pdb
