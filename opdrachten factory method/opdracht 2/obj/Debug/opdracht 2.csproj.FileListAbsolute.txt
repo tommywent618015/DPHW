@@ -1,0 +1,7 @@
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\bin\Debug\opdracht 2.exe.config
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\bin\Debug\opdracht 2.exe
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\bin\Debug\opdracht 2.pdb
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\obj\Debug\opdracht 2.csprojAssemblyReference.cache
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\obj\Debug\opdracht 2.csproj.CoreCompileInputs.cache
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\obj\Debug\opdracht 2.exe
+C:\Users\frets\source\repos\opdrachten factory method\opdracht 2\obj\Debug\opdracht 2.pdb
